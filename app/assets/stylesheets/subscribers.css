@@ -29,7 +29,7 @@ html, body {
 #wrapper {
   height: 240px;
   width: 100%;
-  background-image: url('http://michaeltruong.ca/images/rslash-banner.png');
+  background-image: url('http://www.benstew.com/wp-content/uploads/2017/04/ubc-test.png');
   background-size: 640px 360px;
   background-position: center;
 }
@@ -42,7 +42,7 @@ html, body {
 #phone {
   width: 100%;
   height: 100%;
-  background-image: url('http://michaeltruong.ca/images/phone.png');
+  background-image: url('http://www.benstew.com/wp-content/uploads/2017/04/phone-1.png');
   background-repeat: repeat-y;
   background-position: -14px -30px;
 }
@@ -103,11 +103,11 @@ html, body {
 
 #tryout {
   width: 200px;
-  height: 130px;
+  height: 100px;
   position: relative;
   float: right;
   top: -390px;
   left: -180px;
-  background-image: url('http://michaeltruong.ca/images/tryout.png');
+  background-image: url('http://www.benstew.com/wp-content/uploads/2017/04/demo-arrow-3.png');
   background-size: 100%;
 }
